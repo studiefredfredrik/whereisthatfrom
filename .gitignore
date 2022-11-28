@@ -1,0 +1,7 @@
+__pycache__
+.idea
+**/**.exe
+**/**.pickle
+**/**.webm
+**/**.mp4
+**/**.vtt
