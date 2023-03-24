@@ -3,4 +3,4 @@ Indexes the subtitles for all movies in a folder and makes them searchable in a 
 Let's you search for a movie quote and watch the related clip in the browser  
 
 ## In use
-![whereisthatfrom-search-example.gif](whereisthatfrom-search-example.gif)
+![doc/whereisthatfrom-search-example.gif](doc/whereisthatfrom-search-example.gif)
